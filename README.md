@@ -51,7 +51,7 @@ Copy-Item "mytheme.omp.json" -Destination "$env:POSH_THEMES_PATH"
 ```
 or download it and put it into the correct folder by hand.
 
-### Adjust PowerShell profile:
+## Adjust PowerShell profile:
 In order to apply the icons and use the Oh My Posh themes it is necessary to modify your Powershell Profile. 
 
 Open your Powershell Profile with
