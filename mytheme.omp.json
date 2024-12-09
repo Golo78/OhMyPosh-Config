@@ -229,27 +229,6 @@
                 "type": "os"
               },
           {
-            "background": "#f36943",
-            "background_templates": [
-              "{{if eq \"Charging\" .State.String}}#b8e994{{end}}",
-              "{{if eq \"Discharging\" .State.String}}#fff34e{{end}}",
-              "{{if eq \"Full\" .State.String}}#33DD2D{{end}}"
-            ],
-            "foreground": "#262626",
-            "invert_powerline": true,
-            "powerline_symbol": "\ue0b2",
-            "properties": {
-              "charged_icon": "\uf240 ",
-              "charging_icon": "\uf1e6 ",
-              "discharging_icon": "\ue234 "
-            },
-            "style": "diamond",
-            "leading_diamond": "\ue0b2",
-            "trailing_diamond": "\ue0b2",
-            "template": " {{ if not .Error }}{{ .Icon }}{{ .Percentage }}{{ end }}{{ .Error }}\uf295 ",
-            "type": "battery"
-          },
-          {
             "background": "#2e9599",
             "foreground": "#111111",
             "invert_powerline": true,
