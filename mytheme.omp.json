@@ -1,6 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
     "final_space": true,
+    "console_title_template": "{{.Folder}}",
     "version": 3,
     "blocks": [
       {
