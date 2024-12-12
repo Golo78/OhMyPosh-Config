@@ -1,7 +1,7 @@
 # OhMyPosh-Config
 
 This tutorial is mainly forked from a [microsoft tutorial](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup), but comes with some additional info that is needed without further research.
-Another awesome tutorial: [OhMyPosh-Windows-Terminal](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
+Additional awesome tutorials: [1](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal), [2](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh)
 
 In this tutorial, you learn how to:
 
